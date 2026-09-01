@@ -1,2 +1,2 @@
 # o-comeco
-inicio da minha programacao com py
+inicio da minha programacao
